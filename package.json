@@ -1,0 +1,27 @@
+{
+  "name": "react-search-gif",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaPawlik/React-search-gif.git"
+  },
+  "author": "Ania",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaPawlik/React-search-gif/issues"
+  },
+  "homepage": "https://github.com/AnnaPawlik/React-search-gif#readme",
+  "devDependencies": {
+    "babel-polyfill": "^6.26.0",
+    "http-server": "^0.11.1"
+  },
+  "dependencies": {
+    "babel-standalone": "^6.26.0"
+  }
+}
